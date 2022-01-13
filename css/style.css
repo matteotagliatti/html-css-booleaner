@@ -35,6 +35,7 @@ table {
 thead {
     background-color:var(--light-blue);
     color: white;
+    text-align: left;
 }
 
 /* Classes */
