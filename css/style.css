@@ -1,0 +1,42 @@
+/* Variables */
+
+:root {
+    --light-blue: #4ea0ff;
+}
+
+/* Global */
+
+body {
+    max-width: 1050px;
+}
+
+header {
+    position: relative;
+    height: 150px;
+    background-color: var(--light-blue);
+    background-image: url("../img/pattern.png");
+
+}
+
+a {
+    color: var(--light-blue);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Classes */
+
+.logo {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 300px;
+}
+
+.grey-text {
+    color: grey;
+}
+
+.small-text {
+    font-size: 0.80rem;
+}
