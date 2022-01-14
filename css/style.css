@@ -87,10 +87,12 @@ thead {
     font-weight: bold;
 }
 
-.bg-monitor-img {
+/* ID */
+
+#bg-monitor-img {
     background-image: url('../img/monitor.jpg');
 }
 
-.bg-graph-img {
+#bg-graph-img {
     background-image: url('../img/graph.jpg');
 }
